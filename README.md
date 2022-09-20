@@ -1,11 +1,11 @@
 # SelendroidApkTest
 
-##Bu frameworkde selendroid mobil uygulamasindan 4 adet fonksiyonel test otomasyona dokulmustur. Bunlar: 
+## Bu frameworkde selendroid mobil uygulamasindan 4 adet fonksiyonel test otomasyona dokulmustur. Bunlar: 
 
-###TC001->Kullanici selendroid mobil application da kayit olabilmeli
-###TC002->Pop up window gorunur olmali
-###TC003->Kullanici say hello sayfasinda kendi adini yazdirabilmeli
-###TC004->Kullanici display text view butonuna tikladiginda cıkan mesaji gorebilmeli
+### TC001->Kullanici selendroid mobil application da kayit olabilmeli
+### TC002->Pop up window gorunur olmali
+### TC003->Kullanici say hello sayfasinda kendi adini yazdirabilmeli
+### TC004->Kullanici display text view butonuna tikladiginda cıkan mesaji gorebilmeli
 
 - Testler browserstack uzerinden remote olarak çaliştirilmaktadir.
 
