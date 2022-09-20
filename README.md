@@ -35,5 +35,9 @@ Pluginler ve gerekli kütüphaneler dependecies ile icerisine eklenir
 Hangi platformun kullanilacagi(androidbrowserstack-iosBrowserstack) ve proje kapsamında kullanılacak data lar yazılır. Datalar ayrica src/test/java/resources klasorunde bulunan excelden alinmaktadir.
 
 ## TC001 Register user videosu aşagıya eklenmiştir
+```ts
+// example.ts
+```
+npx embedme README.md
 <iframe src="https://player.vimeo.com/video/751896648?h=ffbbf7a4e0" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
