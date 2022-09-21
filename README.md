@@ -1,11 +1,11 @@
-# SelendroidApkTest
+## SelendroidApkTest
 
-## Bu frameworkde selendroid mobil uygulamasindan 4 adet fonksiyonel test otomasyona dokulmustur. Bunlar: 
+### Bu frameworkde selendroid mobil uygulamasindan 4 adet fonksiyonel test otomasyona dokulmustur.  
 
-### TC001->Kullanici selendroid mobil application da kayit olabilmeli
-### TC002->Pop up window gorunur olmali
-### TC003->Kullanici say hello sayfasinda kendi adini yazdirabilmeli
-### TC004->Kullanici display text view butonuna tikladiginda cıkan mesaji gorebilmeli
+* TC001->Kullanici selendroid mobil application da kayit olabilmeli
+* TC002->Pop up window gorunur olmali
+* TC003->Kullanici say hello sayfasinda kendi adini yazdirabilmeli
+* TC004->Kullanici display text view butonuna tikladiginda cıkan mesaji gorebilmeli
 
 - Testler browserstack uzerinden remote olarak çaliştirilmaktadir.
 
@@ -35,9 +35,6 @@ Pluginler ve gerekli kütüphaneler dependecies ile icerisine eklenir
 Hangi platformun kullanilacagi(androidbrowserstack-iosBrowserstack) ve proje kapsamında kullanılacak data lar yazılır. Datalar ayrica src/test/java/resources klasorunde bulunan excelden alinmaktadir.
 
 ## TC001 Register user videosu aşagıya eklenmiştir
-```ts
-// example.ts
-```
-npx embedme README.md
-<iframe src="https://player.vimeo.com/video/751896648?h=ffbbf7a4e0" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/93828041/191476585-a34a1c13-31b2-421f-99d3-5f99e3180688.mp4
 
