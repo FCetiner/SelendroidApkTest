@@ -18,7 +18,7 @@
 - stepdefinition da
 Feature da bulunan stepler icin gerekli methodlar yazildi
 
-- pages package
+- ** pages package:
 webelementlerin locateleri alindi
 
 - utilities 
