@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.312">
+    <testcase classname="Sample ios app test" name="_2" time="0.093">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given Kullanici sample ios app de text butonuna tiklar......................undefined
+And Kullanici "Hello IOS" yazisini gonderir ve gonderildigini dogrular......skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
