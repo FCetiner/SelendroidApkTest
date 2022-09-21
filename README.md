@@ -11,7 +11,7 @@
 
 - Framework olarak Cucumber BDD kullanıldı ve POM a gore dizayn edildi.
 
-- Cucumber framework'ünde Rapor almak için ilgili testin tagi runner classına eklenir ve runner classindan calıstırılır ve target/cucumber-html-reports altinda overwiev isimli raporlar browser da acılarak görüntülenir.
+- Cucumber framework'ünde Rapor almak için ilgili testin tagi runner classına eklenir ve runner classindan calistirilir ve target/cucumber-html-reports altinda overwiev isimli raporlar browser da acılarak görüntülenir.
 
 - Raporlar ayrica testlerin terminal uzerinden mvn clean verify komutu ile calistirilmasi ile alinabilir.
 
