@@ -15,26 +15,28 @@
 
 - Raporlar ayrica testlerin terminal uzerinden mvn clean verify komutu ile calistirilmasi ile alinabilir
 
-## stepdefinition da
+- stepdefinition da
 Feature da bulunan stepler icin gerekli methodlar yazildi
 
-## pages package
+- pages package
 webelementlerin locateleri alindi
 
-## utilities 
+- utilities 
 Driver, sık kullanılacak methodlar (AndroidReusable methods, Excel utils ) ve kullanılacak url ın daha kolay alınması icin configuration.properties
 in baglantısı saglanır (ConfigReader).
 
-## feature 
+- feature 
 Stepler yazılır ve calistırılır. (Gherkin dili ile yazılmıstır)
 
-## pom.xml 
+- pom.xml 
 Pluginler ve gerekli kütüphaneler dependecies ile icerisine eklenir
 
-## configuration.properties
+- configuration.properties
 Hangi platformun kullanilacagi(androidbrowserstack-iosBrowserstack) ve proje kapsamında kullanılacak data lar yazılır. Datalar ayrica src/test/java/resources klasorunde bulunan excelden alinmaktadir.
 
-## TC001 Register user videosu aşagıya eklenmiştir
+- TC001 Register user videosu aşagıya eklenmiştir
 
-https://user-images.githubusercontent.com/93828041/191476585-a34a1c13-31b2-421f-99d3-5f99e3180688.mp4
+
+https://user-images.githubusercontent.com/93828041/191477508-b8518028-a81e-4753-948c-5f0e587e4d71.mp4
+
 
